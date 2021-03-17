@@ -1,0 +1,14 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+p{
+    text-align: center;
+    background-color: black;
+    color:white;
+    width:62.3%;
+    height:30px;
+    display:flex;
+    padding-left: 500px; 
+    padding-top: 50px;
+}
